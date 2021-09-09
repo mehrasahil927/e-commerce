@@ -28,11 +28,18 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container{
+  display: flex;
+  font-size: -webkit-xxx-large;
+}
+.text{
+  margin-left: 100px;
+  color: skyblue;
+}
+.rate {
+  display: block;
+  color:blueviolet;
+}
+.color{
+  color: rebeccapurple;
 }
